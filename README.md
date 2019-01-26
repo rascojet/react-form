@@ -1,6 +1,6 @@
-# Overview
+# Requirements
 <p>
-	This is a basic template to create web apps with React.js. 
+	React Template requires node.js on the local environment to run.
 </p>
 
 # Quick Overview
