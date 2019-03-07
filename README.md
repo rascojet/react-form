@@ -9,7 +9,7 @@
 		Install Node.js and npm [https://nodejs.org/en/download]
 	</li>
 	<li>
-		Download or clone this repository to your development environment [https://github.com/rascojet/react-template.git]
+		Download or clone this repository to your development environment [https://github.com/rascojet/step-form.git]
 	</li>
 	<li>
 		Run npm install to install the project dependencies [npm install].
