@@ -1,6 +1,6 @@
 # Requirements
 <p>
-	React Template requires node.js on the local environment to run.
+	React Multi Step Form requires node.js on the local environment to run.
 </p>
 
 # Quick Overview
@@ -15,7 +15,7 @@
 		Run npm install to install the project dependencies [npm install].
 	</li>
 	<li>
-		Open command line and change directory to the app folder [cd react-template].
+		Open command line and change directory to the app folder [cd step-form].
 	</li>
 	<li>
 		Run the app [npm start]
@@ -27,7 +27,7 @@
 
 # Demo
 
-http://www.rascojet.com/github/react-template
+http://www.rascojet.com/demo/step-form
 
 
 ## License
